@@ -1,4 +1,4 @@
-# Base de datos de la Calidad de Aire (Air Quality)
+# Base de datos de la Calidad del Aire (Air Quality)
 Sigue los siguientes pasos para generar de forma correcta la base de datos con registros, llaves foráneas y primarias, así como el modelo Entidad - Relación.
 
 ## Procedimiento
